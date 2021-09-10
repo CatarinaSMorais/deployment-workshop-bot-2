@@ -36,6 +36,8 @@
 - I am feeling very good
 - I am great
 - I'm good
+- bem
+- fine and u
 
 ## intent:mood_unhappy
 - sad
@@ -48,6 +50,7 @@
 - not very good
 - extremely sad
 - so sad
+- awesome
 
 ## intent:bot_challenge
 - are you a bot?
